@@ -4,8 +4,15 @@ Hi!
 ## Introduction
 
 At the time of typing, I am eleven years old and I live in Shanghai, China.
-I like coding in Python the most, though I am also studying C++ and Ruby.
-My other intrests include reading and playing chess.
+
+Programming languages that I like:
+* Python
+* C++
+* Ruby
+
+My other intrests:
+* Reading
+* Playing chess
 
 ### Support or Contact
 
